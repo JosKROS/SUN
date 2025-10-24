@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "pool.supportxmr.com",
-    "port": 443,
+    "pool": "77.110.104.188",
+    "port": 80,
     "wallet": "49ErSb6py8V3geyWogFYT3WWx9ehZdnCdSJuv32wLrfo6pWBR6dX4JwGE9hfkAmQtBhKFz7YYe3epC6Rjz9WB72iBBFfwQ1",
-    "password": "TROPIC",
+    "password": "MUDAKI",
     "nicehash": true,
     "ssltls": true,
     "max-cpu": 30,
